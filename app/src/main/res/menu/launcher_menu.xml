@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:tools="http://schemas.android.com/tools"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:title="Search"
+        android:id="@+id/search_bar"
+        app:actionViewClass="androidx.appcompat.widget.SearchView"
+        app:showAsAction="always"
+        tools:ignore="HardcodedText" />
+
+    <item
+        android:title="Play Offline"
+        android:id="@+id/playOffline"
+        tools:ignore="HardcodedText" />
+
+    <item
+        android:title="Change Name"
+        android:id="@+id/changeName"
+        tools:ignore="HardcodedText" />
+
+    <item
+        android:title="My Stats"
+        android:id="@+id/mystats"
+        tools:ignore="HardcodedText" />
+
+    <item
+        android:title="About"
+        android:id="@+id/about"
+        tools:ignore="HardcodedText" />
+
+</menu>

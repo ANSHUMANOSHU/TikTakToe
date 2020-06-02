@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "953750007865",
+    "firebase_url": "https://tiktaktoe-842ae.firebaseio.com",
+    "project_id": "tiktaktoe-842ae",
+    "storage_bucket": "tiktaktoe-842ae.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:953750007865:android:2ef1aef16d9dc556339de8",
+        "android_client_info": {
+          "package_name": "com.media.tiktaktoe"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "953750007865-je26cfg98g67o547cu39cd6q96k8ookn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBEuty012ScLjbGGV7opXxB_ZGEHssL130"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "953750007865-je26cfg98g67o547cu39cd6q96k8ookn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

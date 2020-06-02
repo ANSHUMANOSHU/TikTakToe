@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/login_back"
+    android:orientation="vertical">
+
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/playersRecycler"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        tools:context=".LauncherActivity" />
+
+
+    <TextView
+        android:visibility="gone"
+        android:typeface="monospace"
+        android:text="Player not available online"
+        android:textSize="16sp"
+        android:background="@color/red"
+        android:textAlignment="center"
+        android:textColor="@color/white"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/noplayers"
+        tools:ignore="HardcodedText" />
+
+
+</LinearLayout>

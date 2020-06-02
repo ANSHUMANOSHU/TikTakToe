@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Tik Tac Toe</string>
+    <string name="developers">ANSHUMAN   PADNEY \nHARDIK   GOEL</string>
+    <string name="developersheading">Developers and Designers :</string>
+    <string name="won_to_loose">     Won / looses    </string>
+</resources>
